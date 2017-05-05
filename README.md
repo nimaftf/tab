@@ -3,13 +3,13 @@ Edited and Improved by te1egamer
 
 ## Install
 ```bash
-git clone https://github.com/tabchis/tabchi.git && cd tabchi && chmod 777 install.sh && chmod 777 telegamer.sh && ./install.sh && lua creator.lua
+git clone https://github.com/nimaftf/tab.git && cd tab && chmod 777 install.sh && chmod 777 telegamer.sh && ./install.sh && lua creator.lua
 ```
 ## Create a bot!
 ```
 lua creator.lua
 Auto Detected Tabchi ID : 0
-Enter Full Sudo ID : id9raqami tel
+Enter Full Sudo ID : 119953172
 Done!
 New Tabchi Created...
 ID : 0
@@ -26,7 +26,7 @@ use `./telegamer.sh ` for Autolaunch
 
 ## Developer
 
-(https://telegram.me/te1egamer_shh)
+(https://telegram.me/nimaftf)
 
-### Powered by [TeleGamer](https://telegram.me/te1egamer)
+### Powered by [nima](https://telegram.me/nimaftf)
 
